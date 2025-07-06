@@ -1,5 +1,7 @@
 # Tuning Neural Networks with Regularization - Lab 
 
+### Check the index.ipynb file for my working
+
 ## Introduction
 
 In this lab, you'll use a train-test partition as well as a validation set to get better insights about how to tune neural networks using regularization techniques. You'll start by repeating the process from the last section: importing the data and performing preprocessing including one-hot encoding. From there, you'll define and compile the model like before. 
